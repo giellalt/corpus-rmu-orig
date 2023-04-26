@@ -176,10 +176,10 @@
         <parallel_text xml:lang="smn" location=""/>
         <parallel_text xml:lang="sms" location=""/>
         <parallel_text xml:lang="swe" location="om-man-mobbas.html"/>
-    <parallel_text location="kana-avelas-holjavel.html" xml:lang="rmf"/>
-<parallel_text location="te-kerdol-o-manu-belenkerevo.html" xml:lang="rmy-rka"/>
-<parallel_text location="te-kerdol-o-manu-mobbad.html" xml:lang="rmy-rlo"/>
-<parallel_text location="manu-te-ulo-mobimo.html" xml:lang="rmn"/>
+    <parallel_text xml:lang="rmf" location="kana-avelas-holjavel.html"/>
+<parallel_text xml:lang="rmy-rka" location="te-kerdol-o-manu-belenkerevo.html"/>
+<parallel_text xml:lang="rmy-rlo" location="te-kerdol-o-manu-mobbad.html"/>
+<parallel_text xml:lang="rmn" location="manu-te-ulo-mobimo.html"/>
 </xsl:variable>
 
     <!--
